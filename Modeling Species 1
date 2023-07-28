@@ -4,22 +4,22 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# MT2507 Mathematical Modelling: Computing Project 2022/23"
+    ""
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## Instructions\n",
+    "",
     "\n",
-    "- There is one helper worksheet associated with this project. You should work through this sheet before attempting the project.\n",
-    "\n",
-    "\n",
-    "- The project itself is worth 15% of your final grade in the module. There are 30 marks available.\n",
+    "",
     "\n",
     "\n",
-    "- Submitting your project You should upload your work as a single .ipynb file to the relevant MySaint area as a single file by 2pm on Friday 24 March 2023 (end of Week 9).\n",
+    "",
+    "\n",
+    "\n",
+    "",
     "\n",
     "\n",
     "- If you have been working on the server you will need to download the file from this server using Download as$>$Notebook in the File menu. The file must be downloaded as a Notebook. Your project must be self-contained such that it works when run in sequence (from top to bottom) by the marker.\n",
