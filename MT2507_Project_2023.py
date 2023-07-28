@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # MT2507 Mathematical Modelling: Computing Project 2022/23
+# # 
 
-# ## Instructions
+# ## 
 # 
-# - There is one helper worksheet associated with this project. You should work through this sheet before attempting the project.
+# - 
 # 
 # 
 # - The project itself is worth 15% of your final grade in the module. There are 30 marks available.
@@ -17,7 +17,7 @@
 # - If you have been working on the server you will need to download the file from this server using Download as$>$Notebook in the File menu. The file must be downloaded as a Notebook. Your project must be self-contained such that it works when run in sequence (from top to bottom) by the marker.
 # 
 # 
-# - Help is available from staff in your computing lab session for each of Weeks 5-9 of the semester, excluding the February vacation. Make sure to use these well and do not leave all your questions to Week 9 (there are only so many things we can answer in the hour!).
+# 
 # 
 # 
 # - For each question three empty cells have been added below. This is an arbitrary number and you can add or delete cells as you wish. Some questions have been broken down into lettered parts for clarity, but you can answer each question in the cells below the question statement.
